@@ -1,0 +1,111 @@
+.home-page {
+    background-color: #f2f2f2;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home-page .overlap-wrapper {
+    background-color: #f2f2f2;
+    height: 1440px;
+    width: 2560px;
+  }
+  
+  .home-page .overlap {
+    height: 1440px;
+    position: relative;
+  }
+  
+  .home-page .overlap-group {
+    height: 1440px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 2560px;
+  }
+  
+  .home-page .line {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 199px;
+    width: 2560px;
+  }
+  
+  .home-page .img {
+    height: 1px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 1319px;
+    width: 2560px;
+  }
+  
+  .home-page .line-2 {
+    height: 1440px;
+    left: 2439px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1px;
+  }
+  
+  .home-page .line-3 {
+    height: 1440px;
+    left: 119px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 1px;
+  }
+  
+  .home-page .our-story {
+    color: transparent;
+    font-family: "Usual-ExtraBold", Helvetica;
+    font-size: 120px;
+    font-weight: 800;
+    left: 160px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 56px;
+    white-space: nowrap;
+  }
+  
+  .home-page .text-wrapper {
+    color: #120a9e;
+  }
+  
+  .home-page .span {
+    color: #000000;
+  }
+  
+  .home-page .div {
+    -webkit-text-stroke: 1px #000000;
+    color: transparent;
+    font-family: "Usual-ExtraBold", Helvetica;
+    font-size: 120px;
+    font-weight: 800;
+    left: 159px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 198px;
+    white-space: nowrap;
+  }
+  
+  .home-page .p {
+    color: #120a9e;
+    font-family: "Rockwell Nova-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 161px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1159px;
+    width: 2238px;
+  }
+  
